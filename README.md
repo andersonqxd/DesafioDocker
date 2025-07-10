@@ -94,4 +94,4 @@ Este projeto faz parte do **Desafio Docker** proposto no **Bootcamp de DevOps da
 ## 👨‍💻 Autor
 
 Anderson - Estudante de TI | DevOps e Desenvolvimento  
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil) | 🐙 [GitHub](https://github.com/seu-usuario)
+🔗 [LinkedIn](https://www.linkedin.com/in/anderson-franca-rc/) | 🐙 [GitHub](https://github.com/andersonqxd)
